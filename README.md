@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack web development(MERN) and System Design
 - 🌱 I’m currently learning Python, Django, GraphQL
 - 💞️ I’m looking to collaborate on more in Javascript/Typescript related projects
-- 📫 You can reach out me at neelgorasiya.dev@gmail.com
+- 📫 You can reach out me at neel.gorasiya@fxis.ai
 
 <!---
 Neeel29/Neeel29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
